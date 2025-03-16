@@ -1,2 +1,3 @@
 # git_repo1
-Practicing gitbub and its functions
+<h1>GitHub</h1>
+Practicing github and its functions
